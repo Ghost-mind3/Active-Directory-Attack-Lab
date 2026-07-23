@@ -293,7 +293,7 @@ L'utilisateur n'a jamais de permission directement appliquée.
 
 Le design des groupes Active Directory a été défini avant leur création effective.
 
-![Active Directory Groups Design](Images/AD-Groups-Design.png)
+![Active Directory Groups Design](Imges/AD-Groups-Design.png)
 
 ---
 
