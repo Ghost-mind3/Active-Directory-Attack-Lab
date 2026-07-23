@@ -74,7 +74,7 @@ Le serveur sera ensuite préparé pour accueillir les rôles nécessaires au fon
 
 ## Capture
 
-![Installation Windows Server](Images/VULNAD-InstallServer.png)
+![Installation Windows Server](Images/VULN_AD-InstallServer.png)
 
 ---
 
@@ -125,7 +125,7 @@ Option désactivée :
 
 ## Capture
 
-![Promotion du domaine](Images/VULNAD-DomainPromote.png)
+![Promotion du domaine](Images/VULN_AD-DomainPromote.png)
 
 ---
 
@@ -166,9 +166,9 @@ Cette commande permet de vérifier :
 
 ## Captures
 
-![Informations domaine](Images/VULNAD-DomainInfo.png)
+![Informations domaine](Images/VULN_AD-DomainInfo.png)
 
-![Informations domaine PowerShell](Images/VULNAD-DomainInfo-01.png)
+![Informations domaine PowerShell](Images/VULN_AD-DomainInfo-01.png)
 
 ---
 
