@@ -168,7 +168,7 @@ Cette commande permet de vérifier :
 
 ![Informations domaine](Images/VULN_AD-DomainInfo.png)
 
-![Informations domaine PowerShell](Images/VULN_AD-DomainInfo-01.png)
+![Informations domaine PowerShell](Images/VULN_AD-DomainInfo1.png)
 
 ---
 
