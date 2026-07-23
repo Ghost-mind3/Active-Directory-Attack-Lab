@@ -215,13 +215,5 @@ Cette structure servira de base pour introduire progressivement des configuratio
 
 ---
 
-# 🚀 Prochaine étape
-
-La prochaine phase consistera à créer les premiers objets Active Directory :
-
-- Organizational Units (OU)
-- Security Groups
-- Users
-- Administrative Accounts
 
 Cette étape permettra ensuite de mettre en place le modèle de permissions **AGDLP** et de préparer les futurs scénarios d'attaque.
